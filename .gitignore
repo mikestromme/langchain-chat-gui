@@ -129,6 +129,7 @@ env.bak/
 venv.bak/
 .chatgpt-cli_py39
 chatgpt-streamlit_39
+myvenv/
 
 # Spyder project settings
 .spyderproject
